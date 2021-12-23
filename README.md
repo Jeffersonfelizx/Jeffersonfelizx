@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Olá, Sou o Jefferson Felix, estudante de ciencia da computaçao e ciencia de dados, tenho os planos para entrar realmente de cabeça na area da tecnologia no ano de 2022, assim trabalhando diretamente na area e reforçando se possivel o aprendizado da programaçao e tambem do ingles durante os proximos periodos, espero conseguir realizar uma mudança com projetos criados para a sociedade. 
+  Olá, Sou o Jefferson Felix, estudante de ciência da computação e ciência de dados, tenho os planos para entrar realmente de cabeça na área da tecnologia no ano de 2022, assim trabalhando diretamente na área e reforçando se possível o aprendizado da programação e também do inglês durante os próximos períodos.
 </p>  
 
 <h2 align="center">Technology <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
