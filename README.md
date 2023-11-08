@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-Seja Bem vindos ao meu Perfil, Saiba que entrei em um processo de aprendizado constante para o ano de 2022.
+Seja Bem vindos ao meu Perfil, Saiba que entrei em um processo de aprendizado constante para o ano de 2023/2024.
 
 </p>  
 
