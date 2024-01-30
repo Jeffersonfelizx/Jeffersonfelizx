@@ -40,7 +40,6 @@
 
 ![Jogo de Xadrez](https://github.com/Jeffersonfelizx/Jeffersonfelizx/blob/master/chess-board.gif)
 
-![Jogo da Cobrinha](https://github.com/Jeffersonfelizx/Jeffersonfelizx/blob/output/github-contribution-grid-snake.svg)
 
 
 
